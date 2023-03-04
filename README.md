@@ -14,3 +14,9 @@ Simplistic Solitaire clone using Lua and Ncurses.
 ### controls
   - single and double left click selects/moves cards.
   - ```q``` quits the game.
+
+
+### screenshots
+![screenshot1](./screenshots/screenshot1.png)  
+  
+![screenshot1](./screenshots/screenshot2.png)
